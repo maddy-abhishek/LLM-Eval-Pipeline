@@ -2,7 +2,6 @@
 
 > **One sentence:** Build a small RAG system over a product catalog, then measure exactly how well it performs using RAGAS across 5 metrics — and deploy it confidently on Streamlit Cloud.
 
-> 🚀 **Live demo:** [ragasz.streamlit.app](https://ragasz.streamlit.app/)
 
 ---
 
